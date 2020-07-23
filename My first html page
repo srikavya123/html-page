@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY JOURNEY </title>
+</head>
+<body>
+    <h1 style="text-align: center; color: blue"><b>GOLDEN TURBAN TRAVELS</b></h1>
+    <h4 style="text-align: center;"><b>Hyderabad</h4>
+   	<h3>&emsp;&emsp;HOME &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ABOUT &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; GALLERY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OFFERS &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CONTACT</h3><br>
+
+   <img src="https://images.unsplash.com/photo-1523975864490-174dd4d9a41e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width='1000' heigth="auto"><br>
+   <h2><b>Registration Form</h2>
+   	<form>
+	<table>
+		<tr>
+			<td>
+				Email Address:
+			</td>
+
+			<td>
+				<input type=”mail”  placeholder=”Email” name=””>
+			</td>
+		</tr>
+<tr>
+<td>
+				Password:
+			</td>
+
+			<td>
+				<input type=”Password” placeholder=”Password” name=””>
+			</td>
+		</tr>
+		<td> 
+              <input type="submit" name="submit">
+		</td>
+	</table>
+</form> 
+<h2><b>About</b></h2>
+  <p>Golden Turban Travels was established in 2020 for travel.In this institute you will get more offers and you can see the different places around the world.Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, bus, airplane, ship or other means, with or without luggage, and can be one way or round trip</p>
+
+<h2><b>Trip Organiser</h2>
+	<img src="https://www.eturbonews.com/wp-content/uploads/2017/03/0e_2.jpg" width=100>&emsp;&emsp;<img src="https://i.vimeocdn.com/portrait/31971005_300x300" width=100>&emsp;&emsp;<img src="https://upload.wikimedia.org/wikipedia/en/9/91/WTTC_Official_Logo.png" width=100>&emsp;&emsp;<img src="https://cdn.travelpulse.com/images/b7e255de-2a5f-e111-b505-001a4bd1ca5c/b0618dc5-1289-4da7-8623-d968a53f7b89/500x309.png" width=100>&emsp;&emsp;<img src="https://ustoa.com/blog/wp-content/uploads/2017/06/USTOA.jpg" width=100>&emsp;&emsp;<img src="https://www.c-mw.net/wp-content/uploads/2020/03/Abta_Logo-1600x1000.jpg" width=100>&emsp;&emsp;<img src="https://hospitality-on.com/sites/default/files/styles/image994x499/public/import/contenu/arton6827.jpg?itok=02vqE__A" width=100>
+<h2><b>Help Line</h2>
+	<h3>Golden Turban Travels</h3>
+    <h3>Medchal(M),Hyderabad-501401</h3>
+    <h3>Contact no:9877339925</h3>
+    <h3>Email:goldenturban@gmail.com</h3>
+</body>
+</html>
